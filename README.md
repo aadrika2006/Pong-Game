@@ -42,7 +42,7 @@ It demonstrates **core JavaScript logic**, **DOM manipulation**, and **canvas-ba
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/pong-game.git
+git clone https://github.com/aadrika2006/pong-game.git
 cd pong-game
 
 
